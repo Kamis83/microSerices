@@ -13,28 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb2c4ee-e1f5-4fff-bf22-a2c7bf75f893" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/eureka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/src/main/java/com/wisolv/it/eureka/EurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microarch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/src/main/java/com/wisolv/it/paymentservice/PaymentApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/wisolv/it/userservice/UserApi.java" afterDir="false" />
-    </list>
+    <list default="true" id="6bb2c4ee-e1f5-4fff-bf22-a2c7bf75f893" name="Default Changelist" comment="add microService architecture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,8 +184,17 @@
       <workItem from="1695448723994" duration="43000" />
       <workItem from="1695449634876" duration="6000" />
       <workItem from="1695449720607" duration="156000" />
-      <workItem from="1695449888590" duration="17539000" />
+      <workItem from="1695449888590" duration="17970000" />
     </task>
+    <task id="LOCAL-00001" summary="add microService architecture">
+      <option name="closed" value="true" />
+      <created>1695483725217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695483725217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,11 +205,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add microService architecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="add microService architecture" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
